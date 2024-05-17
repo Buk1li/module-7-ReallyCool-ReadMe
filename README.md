@@ -1,7 +1,5 @@
 # ReadMe Generator
 
-
-
 ## Description
 
 This application allows users to generate a README file for their projects, based on their answers to the questions provided.
