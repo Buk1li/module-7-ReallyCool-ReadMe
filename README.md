@@ -11,7 +11,7 @@ This application allows users to generate a README file for their projects, base
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-
+* [Video Walkthrough](#video-walkthrough)
 
 ## Installation
 
@@ -37,3 +37,8 @@ If you have any questions about the project, please feel free to contact me:
 
 - GitHub: [Buk1li](https://github.com/Buk1li)
 - Email: beecher.braedan@gmail.com
+
+## Video Walkthrough
+[![SVG Video Walkthrough](https://img.youtube.com/vi/B3DPpLTzNC0/0.jpg)](https://www.youtube.com/watch?v=B3DPpLTzNC0)
+
+
